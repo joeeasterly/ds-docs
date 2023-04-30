@@ -1,3 +1,6 @@
+---
+chapter: 1.11
+---
 ### 1.11.Technical Requirements/Limitations #
 
 University of Rochester uses a Web server known as a **LAMP server**. “LAMP” is an acronym for the technology stack that is installed on the server:

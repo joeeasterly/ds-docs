@@ -1,3 +1,6 @@
+---
+chapter: 1.6
+---
 ### 1.6.Registering a Domain #
 
 University of Rochester currently utilizes both **subdomains** of .digitalscholar.rochester.edu and **top-level domains** (a .com, .net, .org address) for the initial signup. You have the option to start with a free subdomain and then later decide you’d like to purchase a **top-level domain** after using the space.  You can do this by registering a domain with a service provider (we make a recommendation below, but any domain provider should work) and adding it to your space as an **Addon Domain**.
