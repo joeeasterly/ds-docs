@@ -6,12 +6,11 @@ chapter: 1.2
 Review the Guidelines
 =====================
 
-Before you get started, we recommend that you review our information about [Choosing a Domain Name](http://sites.haverford.edu/docs/uncategorized/choosing-your-domain-name/ "general:choosing-a-domain-name").
+Before you get started, we recommend that you review our information about [Choosing a Domain Name](002-choosing-sudomain.md").
 
 The Sign-Up Process
 ===================
-
-Once you’ve reviewed the guidelines, you can proceed to the [sign-up page.](https://stateu.org "https://stateu.org")
+Open your web browser to [https://digitalscholar.rochester.edu](https://digitalscholar.rochester.edu) and click **Log in**. Enter your [NetID](https://tech.rochester.edu/services/netid/) credentials.
 
 1.  Click the “Get Started” Button  
     ![](003-get_started.png)

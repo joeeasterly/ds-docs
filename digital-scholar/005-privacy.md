@@ -3,8 +3,10 @@ chapter: 1.4
 ---
 # Privacy
 
-What you add to your digitalscholar.rochester.edu webspace rests entirely with you. You can choose not to pick a domain that reveals your name. You can use a pseudonym on your actual site. However, when you sign up through the default process, your name **does** get published as part of the public record about your domain name. Anyone can find it by looking up details about the ownership of that domain name through a public “Whois” request.
+What content you add to your web space on Digital Scholar is entirely up to you. 
+## Domain Names
+How you name your domain is also entirely up to you. If you choose to keep a subdomain &mdash; for example, *bluesky*.digitalscholar.rochester.edu &mdash; that name is registered only with the University of Rochester's [name servers](https://en.wikipedia.org/wiki/Name_server), and we do not disclose the owner of that name. However, if you choose to register your own primary domain (e.g., *bluesky.us*), the [registrar](https://en.wikipedia.org/wiki/Domain_name_registrar) you purcahsed the domain from may make your contact information available in a public directory such as [ICANN WHOIS](https://lookup.icann.org/en/lookup). Most registrars allow private WHOIS records, and many will charge an additional fee for that service. Reclaim Hosting, the service provider behind Digital Scholar, offers private registrations for free.
 
-This is NOT an issue if you’re already planning on using your name openly on your site (in your domain name or elsewhere). This option is aimed, specifically, at those who, for whatever reason, feel they want to take every precaution to hide their identity on their site.
+If you choose to keep a digitalscholar.rochester.edu subdomain, then cost (as long as you remain affiliated with the University) and privacy are not concerns.
 
 [comment]: # (feedback link here)

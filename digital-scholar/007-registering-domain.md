@@ -1,11 +1,19 @@
 ---
 chapter: 1.6
 ---
-### 1.6.Registering a Domain #
+# 1.6.Registering a Subdomain #
 
-University of Rochester currently utilizes both **subdomains** of .digitalscholar.rochester.edu and **top-level domains** (a .com, .net, .org address) for the initial signup. You have the option to start with a free subdomain and then later decide you’d like to purchase a **top-level domain** after using the space.  You can do this by registering a domain with a service provider (we make a recommendation below, but any domain provider should work) and adding it to your space as an **Addon Domain**.
+Digital Scholar currently utilizes both subdomains of digitalscholar.rochester.edu and standalone domain names (example.com, example.us) for the initial signup process.
 
-To start you’ll need to get the domain registered. When choosing a domain we recommend keeping it all lower-case, avoiding hyphens, keeping it short, and of course it will need to be a unique address. Reclaim Hosting has made the process of registering a domain quite simple, and the domain will work with very few additional steps due to the integration they have with our hosting system. To register a domain, [**click here**](https://portal.reclaimhosting.com/cart.php?a=add&domain=register) and type in the domain you’d like to purchase:
+When choosing a subdomain we recommend:
+ - keep it short.
+ - keep it memorable.
+ - use unambiguous spelling.  Use words that are unlikely to be confused with typos, variations, or other words.
+ - use only alphanumeric (i.e., a-z, 0-9) characters. While it is possible to have non-latin-alphabet domain names, you are likely to run into software support issues.
+ 
+ ## Registering a Standalone Domain
+
+ Reclaim Hosting has made the process of registering a domain quite simple, and the domain will work with very few additional steps due to the integration they have with our hosting system. To register a domain, [**click here**](https://portal.reclaimhosting.com/cart.php?a=add&domain=register) and type in the domain you’d like to purchase:
 
 [![screenshot of domain registration at reclaim.com](http://sites.haverford.edu/docs/wp-content/uploads/2017/11/1.6.-a.gif)](http://sites.haverford.edu/docs/wp-content/uploads/2017/11/1.6.-a.gif)
 
